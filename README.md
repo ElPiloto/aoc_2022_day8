@@ -15,7 +15,7 @@ answer to the problem.
 ### Converting this into a machine learning problem
 
 **Notable omission:** We will ignore the last step of summing up the visibility
-counts. This isn't particular fun to learn.
+counts across trees. This isn't particular interesting to learn.
 
 #### Binary Classification
 
